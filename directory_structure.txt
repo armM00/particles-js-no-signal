@@ -1,0 +1,7 @@
+- templates
+  - index.html
+- static
+  - css
+    - styles.css
+  - particles.json
+  - particles.js
